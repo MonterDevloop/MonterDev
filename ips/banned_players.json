@@ -4,4 +4,9 @@
         "ip_address": "171.100.153.87",
         "reason": "Cheating"
     },
+    {
+        "steam_hex": "steam:11000014d9acaa4",
+        "ip_address": "110.77.179.171",
+        "reason": "Official Data Dump – SERVER"
+    },
 ]
