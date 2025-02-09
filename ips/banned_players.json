@@ -3,5 +3,10 @@
         "steam_hex": "steam:11000014bc9f66e",
         "ip_address": "124.120.8.233",
         "reason": "Dump Server",
+    },
+    {
+        "steam_hex": "steam:1100001697076aa",
+        "ip_address": "202.28.45.129",
+        "reason": "Anti Hack",
     }
 ]
