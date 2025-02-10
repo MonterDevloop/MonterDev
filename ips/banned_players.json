@@ -4,10 +4,5 @@
         "ip_address": "124.120.8.233",
         "reason": "Dump Server",
     },
-    {
-        "steam_hex": "steam:11000013ed38e26",
-        "ip_address": "192.168.1.35",
-        "reason": "Dump Server",
-    },
 ]
 
