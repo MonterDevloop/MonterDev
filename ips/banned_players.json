@@ -9,5 +9,10 @@
         "ip_address": "49.228.34.81",
         "reason": "KeyMaster BAN BY NC Devlooper & MonterDevlooper",
     },
+    {
+        "steam_hex": "steam:11000013ed38e26",
+        "ip_address": "192.168.1.35",
+        "reason": "NC Devlooper : ALEK TEST BAN",
+    },
 ]
 
