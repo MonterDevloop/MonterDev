@@ -5,9 +5,14 @@
         "reason": "ANTI CHEAT EMO",
     },
     {
-        "steam_hex": "steam:1100001670222d4",
-        "ip_address": "115.87.13.203",
-        "reason": "Anti Cmd ban",
+        "steam_hex": "steam:1100001420811c0",
+        "ip_address": "184.22.52.235",
+        "reason": "มีความผิดปกติเกี่ยวกับ หัวโต๊โต ",
+    },
+    {
+        "steam_hex": "steam:110000162dced28",
+        "ip_address": "223.207.98.162",
+        "reason": "มีความผิดปกติเกี่ยวกับ หัวโต๊โต ",
     },
 ]
 
