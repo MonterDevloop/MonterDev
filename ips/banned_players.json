@@ -9,5 +9,10 @@
         "ip_address": "58.8.18.232",
         "reason": "RPG",
     },
+    {
+        "steam_hex": "steam:110000165ac3420",
+        "ip_address": "49.228.179.2",
+        "reason": "เรื้อน",
+    },
 ]
 
