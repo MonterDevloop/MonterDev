@@ -14,5 +14,10 @@
         "ip_address": "49.228.179.2",
         "reason": "เรื้อน",
     },
+    {
+        "steam_hex": "steam:11000015f6a4013",
+        "ip_address": "184.22.14.8",
+        "reason": "odmode method 2",
+    },
 ]
 
