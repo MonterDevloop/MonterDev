@@ -19,5 +19,10 @@
         "ip_address": "184.22.14.8",
         "reason": "odmode method 2",
     },
+    {
+        "steam_hex": "steam:11000014af5b562",
+        "ip_address": "118.173.24.221",
+        "reason": "Event Hack",
+    },
 ]
 
